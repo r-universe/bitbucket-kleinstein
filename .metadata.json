@@ -1,0 +1,22 @@
+[
+  {
+    "package": "alakazam",
+    "oncran": true
+  },
+  {
+    "package": "dowser",
+    "oncran": true
+  },
+  {
+    "package": "scoper",
+    "oncran": true
+  },
+  {
+    "package": "shazam",
+    "oncran": true
+  },
+  {
+    "package": "tigger",
+    "oncran": true
+  }
+]
